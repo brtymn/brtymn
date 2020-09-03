@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brtymn)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brtymn&count_private=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brtymn&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brtymn&show_icons=true&theme=dracula&count_private=true)
 
 
 
