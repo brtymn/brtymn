@@ -2,7 +2,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brtymn&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brtymn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Computational Physics.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+
 
 
 <!--
