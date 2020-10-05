@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Computational Physics**
 
-- 🌱 I’m currently learning **JavaScript, HTML and CSS.**
+- 🌱 I’m currently learning **JavaScript and Julia.**
 
 - 👯 I’m looking to collaborate on **anything that I find interesting and useful.**
 
