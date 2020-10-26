@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **anything that I find interesting and useful.**
 
-- 👨‍💻 All of my projects are available at [https://brtymn.github.io/](brtymn.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio webpage.](https://brtymn.github.io/)
 
 - 📫 How to reach me **brtymn@protonmail.com**
 
