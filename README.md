@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **brtymn@protonmail.com**
 
-<iframe src="https://giphy.com/embed/FDu0k1BETbTjeH4xXx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-magic-flying-FDu0k1BETbTjeH4xXx">via GIPHY</a></p>
+![Wizard Gif](https://giphy.com/embed/FDu0k1BETbTjeH4xXx)
