@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **brtymn@protonmail.com**
 
-![Wizard Gif](https://giphy.com/embed/FDu0k1BETbTjeH4xXx)
+![Wizard Gif](https://media.giphy.com/media/FDu0k1BETbTjeH4xXx/giphy.gif)
