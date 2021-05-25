@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bartu.</h1>
 <h3 align="center">Physics student by day, code wizard by night.</h3>
 
-- 🔭 I’m currently working on **Computational Physics and Machine Learning**
-
-- 🌱 I’m currently **trying to broaden my computer science knowledge.**
+- 🔭 I’m currently working on **Computational Physics, Machine Learning and Quantum Computing.**
 
 - 👨‍💻 All of my projects are available at [my portfolio webpage.](https://brtymn.github.io/)
 
