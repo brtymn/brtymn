@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Computational Physics, Machine Learning and Quantum Computing.**
 
-- 👨‍💻 All of my projects are available at [my portfolio webpage.](https://brtymn.github.io/)
-
 - 📫 How to reach me **brtymn@protonmail.com**
 
 ![Wizard Gif](https://media.giphy.com/media/FDu0k1BETbTjeH4xXx/giphy.gif)
