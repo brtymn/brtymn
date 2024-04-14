@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on continuous variable quantum neural networks and atomistic friction simulation.<br>👯 I’m looking to collaborate on quantum simulation projects.<br>🌱 I’m currently learning statistical modeling and simulation acceleration.<br>
+🔭 I’m currently working on integrated photonics and quantum electronics.<br>👯 I’m looking to collaborate on quantum simulation projects.<br>🌱 I’m currently learning statistical modeling and simulation acceleration.<br>
 
 
 # 💻 Tech Stack:
